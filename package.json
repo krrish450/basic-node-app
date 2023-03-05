@@ -3,5 +3,23 @@
     "express": "^4.18.2",
     "git": "^0.1.5",
     "nodemon": "^2.0.21"
-  }
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krrish450/basic-node-app.git"
+  },
+  "author": "kishu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krrish450/basic-node-app/issues"
+  },
+  "homepage": "https://github.com/krrish450/basic-node-app#readme",
+  "description": ""
 }
